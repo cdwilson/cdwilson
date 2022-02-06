@@ -4,7 +4,7 @@
 
 📊 product manager
 
-🏭 currently a technical advisor at [@tempoautomation](https://www.tempoautomation.com)
+🏭 technical advisor at [@tempoautomation](https://www.tempoautomation.com)
 
 <!--
 **cdwilson/cdwilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
