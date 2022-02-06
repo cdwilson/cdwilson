@@ -1,8 +1,10 @@
 ### Hi there, I'm Chris 👋
 
-🤓 I'm a technical product manager with a background in hardware design for deeply embedded systems and design for manufacturing.
+🤓 hardware design engineer
 
-🏭 I'm currently a technical advisor at [@tempoautomation](https://www.tempoautomation.com)
+📊 product manager
+
+🏭 currently a technical advisor at [@tempoautomation](https://www.tempoautomation.com)
 
 <!--
 **cdwilson/cdwilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
